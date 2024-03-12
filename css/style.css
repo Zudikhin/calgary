@@ -402,14 +402,11 @@ input:focus {
 }
 .main_block_right_sert {
   position: absolute;
-  right: -20px;
-  top: 10px;
-  width: 66px;
-  height: 66px;
+  right: 15px;
+  top: 60px;
+  width: 52px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding: 6px;
-  background-color: #fff;
   z-index: 4;
 }
 .main_block_right_sert img {
@@ -603,9 +600,9 @@ input:focus {
     height: calc(100% - 84px);
   }
   .main_block_right_sert {
-    width: 128px;
-    height: 128px;
-    padding: 14px;
+    width: 100px;
+    right: 25px;
+    top: 108px;
   }
   .main_block_right::after {
     width: 42px;
